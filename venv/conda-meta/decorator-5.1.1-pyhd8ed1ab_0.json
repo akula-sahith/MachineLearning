@@ -1,0 +1,51 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.5"
+  ],
+  "extracted_package_dir": "C:\\Users\\akula\\anaconda3\\pkgs\\decorator-5.1.1-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/decorator-5.1.1.dist-info/INSTALLER",
+    "Lib/site-packages/decorator-5.1.1.dist-info/LICENSE.txt",
+    "Lib/site-packages/decorator-5.1.1.dist-info/METADATA",
+    "Lib/site-packages/decorator-5.1.1.dist-info/RECORD",
+    "Lib/site-packages/decorator-5.1.1.dist-info/REQUESTED",
+    "Lib/site-packages/decorator-5.1.1.dist-info/WHEEL",
+    "Lib/site-packages/decorator-5.1.1.dist-info/direct_url.json",
+    "Lib/site-packages/decorator-5.1.1.dist-info/pbr.json",
+    "Lib/site-packages/decorator-5.1.1.dist-info/top_level.txt",
+    "Lib/site-packages/decorator.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/decorator.cpython-312.pyc"
+  ],
+  "fn": "decorator-5.1.1-pyhd8ed1ab_0.tar.bz2",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\Users\\akula\\anaconda3\\pkgs\\decorator-5.1.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "43afe5ab04e35e17ba28649471dd7364",
+  "name": "decorator",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\akula\\anaconda3\\pkgs\\decorator-5.1.1-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/decorator.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "328a6a379f9bdfd0230e51de291ce858e6479411ea4b0545fb377c71662ef3e2",
+  "size": 12072,
+  "subdir": "noarch",
+  "timestamp": 1641555714000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/decorator-5.1.1-pyhd8ed1ab_0.tar.bz2",
+  "version": "5.1.1"
+}

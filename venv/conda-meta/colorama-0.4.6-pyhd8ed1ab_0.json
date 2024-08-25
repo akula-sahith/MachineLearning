@@ -1,0 +1,121 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "C:\\Users\\akula\\anaconda3\\pkgs\\colorama-0.4.6-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/colorama-0.4.6.dist-info/INSTALLER",
+    "Lib/site-packages/colorama-0.4.6.dist-info/METADATA",
+    "Lib/site-packages/colorama-0.4.6.dist-info/RECORD",
+    "Lib/site-packages/colorama-0.4.6.dist-info/REQUESTED",
+    "Lib/site-packages/colorama-0.4.6.dist-info/WHEEL",
+    "Lib/site-packages/colorama-0.4.6.dist-info/direct_url.json",
+    "Lib/site-packages/colorama-0.4.6.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/colorama/__init__.py",
+    "Lib/site-packages/colorama/ansi.py",
+    "Lib/site-packages/colorama/ansitowin32.py",
+    "Lib/site-packages/colorama/initialise.py",
+    "Lib/site-packages/colorama/tests/__init__.py",
+    "Lib/site-packages/colorama/tests/ansi_test.py",
+    "Lib/site-packages/colorama/tests/ansitowin32_test.py",
+    "Lib/site-packages/colorama/tests/initialise_test.py",
+    "Lib/site-packages/colorama/tests/isatty_test.py",
+    "Lib/site-packages/colorama/tests/utils.py",
+    "Lib/site-packages/colorama/tests/winterm_test.py",
+    "Lib/site-packages/colorama/win32.py",
+    "Lib/site-packages/colorama/winterm.py",
+    ".nonadmin",
+    "Lib/site-packages/colorama/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/colorama/__pycache__/ansi.cpython-312.pyc",
+    "Lib/site-packages/colorama/__pycache__/ansitowin32.cpython-312.pyc",
+    "Lib/site-packages/colorama/__pycache__/initialise.cpython-312.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/ansi_test.cpython-312.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/ansitowin32_test.cpython-312.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/initialise_test.cpython-312.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/isatty_test.cpython-312.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/utils.cpython-312.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/winterm_test.cpython-312.pyc",
+    "Lib/site-packages/colorama/__pycache__/win32.cpython-312.pyc",
+    "Lib/site-packages/colorama/__pycache__/winterm.cpython-312.pyc"
+  ],
+  "fn": "colorama-0.4.6-pyhd8ed1ab_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\akula\\anaconda3\\pkgs\\colorama-0.4.6-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "3faab06a954c2a04039983f2c4a50d99",
+  "name": "colorama",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\akula\\anaconda3\\pkgs\\colorama-0.4.6-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/colorama/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/colorama/__pycache__/ansi.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/colorama/__pycache__/ansitowin32.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/colorama/__pycache__/initialise.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/ansi_test.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/ansitowin32_test.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/initialise_test.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/isatty_test.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/utils.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/winterm_test.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/colorama/__pycache__/win32.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/colorama/__pycache__/winterm.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2c1b2e9755ce3102bca8d69e8f26e4f087ece73f50418186aee7c74bef8e1698",
+  "size": 25170,
+  "subdir": "noarch",
+  "timestamp": 1666700778000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/colorama-0.4.6-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.4.6"
+}

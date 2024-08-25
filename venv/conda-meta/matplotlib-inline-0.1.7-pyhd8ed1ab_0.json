@@ -1,0 +1,64 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6",
+    "traitlets"
+  ],
+  "extracted_package_dir": "C:\\Users\\akula\\anaconda3\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/matplotlib_inline-0.1.7.dist-info/INSTALLER",
+    "Lib/site-packages/matplotlib_inline-0.1.7.dist-info/LICENSE",
+    "Lib/site-packages/matplotlib_inline-0.1.7.dist-info/METADATA",
+    "Lib/site-packages/matplotlib_inline-0.1.7.dist-info/RECORD",
+    "Lib/site-packages/matplotlib_inline-0.1.7.dist-info/REQUESTED",
+    "Lib/site-packages/matplotlib_inline-0.1.7.dist-info/WHEEL",
+    "Lib/site-packages/matplotlib_inline-0.1.7.dist-info/direct_url.json",
+    "Lib/site-packages/matplotlib_inline-0.1.7.dist-info/entry_points.txt",
+    "Lib/site-packages/matplotlib_inline-0.1.7.dist-info/top_level.txt",
+    "Lib/site-packages/matplotlib_inline/__init__.py",
+    "Lib/site-packages/matplotlib_inline/backend_inline.py",
+    "Lib/site-packages/matplotlib_inline/config.py",
+    ".nonadmin",
+    "Lib/site-packages/matplotlib_inline/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/matplotlib_inline/__pycache__/backend_inline.cpython-312.pyc",
+    "Lib/site-packages/matplotlib_inline/__pycache__/config.cpython-312.pyc"
+  ],
+  "fn": "matplotlib-inline-0.1.7-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\akula\\anaconda3\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "779345c95648be40d22aaa89de7d4254",
+  "name": "matplotlib-inline",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\akula\\anaconda3\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/backend_inline.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/config.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7ea68676ea35fbb095420bbcc1c82c4767b8be7bb56abb6989b7f89d957a3bab",
+  "size": 14599,
+  "subdir": "noarch",
+  "timestamp": 1713250613000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/matplotlib-inline-0.1.7-pyhd8ed1ab_0.conda",
+  "version": "0.1.7"
+}

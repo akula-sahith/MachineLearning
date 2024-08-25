@@ -1,0 +1,75 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=2.7"
+  ],
+  "extracted_package_dir": "C:\\Users\\akula\\anaconda3\\pkgs\\executing-2.0.1-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/executing-2.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/executing-2.0.1.dist-info/LICENSE.txt",
+    "Lib/site-packages/executing-2.0.1.dist-info/METADATA",
+    "Lib/site-packages/executing-2.0.1.dist-info/RECORD",
+    "Lib/site-packages/executing-2.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/executing-2.0.1.dist-info/WHEEL",
+    "Lib/site-packages/executing-2.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/executing-2.0.1.dist-info/top_level.txt",
+    "Lib/site-packages/executing/__init__.py",
+    "Lib/site-packages/executing/_exceptions.py",
+    "Lib/site-packages/executing/_position_node_finder.py",
+    "Lib/site-packages/executing/executing.py",
+    "Lib/site-packages/executing/py.typed",
+    "Lib/site-packages/executing/version.py",
+    ".nonadmin",
+    "Lib/site-packages/executing/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/executing/__pycache__/_exceptions.cpython-312.pyc",
+    "Lib/site-packages/executing/__pycache__/_position_node_finder.cpython-312.pyc",
+    "Lib/site-packages/executing/__pycache__/executing.cpython-312.pyc",
+    "Lib/site-packages/executing/__pycache__/version.cpython-312.pyc"
+  ],
+  "fn": "executing-2.0.1-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\akula\\anaconda3\\pkgs\\executing-2.0.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "e16be50e378d8a4533b989035b196ab8",
+  "name": "executing",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\akula\\anaconda3\\pkgs\\executing-2.0.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/executing/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/executing/__pycache__/_exceptions.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/executing/__pycache__/_position_node_finder.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/executing/__pycache__/executing.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/executing/__pycache__/version.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c738804ab1e6376f8ea63372229a04c8d658dc90fd5a218c6273a2eaf02f4057",
+  "size": 27689,
+  "subdir": "noarch",
+  "timestamp": 1698580072000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/executing-2.0.1-pyhd8ed1ab_0.conda",
+  "version": "2.0.1"
+}

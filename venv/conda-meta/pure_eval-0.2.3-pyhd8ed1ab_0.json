@@ -1,0 +1,75 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.5"
+  ],
+  "extracted_package_dir": "C:\\Users\\akula\\anaconda3\\pkgs\\pure_eval-0.2.3-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/pure_eval-0.2.3.dist-info/INSTALLER",
+    "Lib/site-packages/pure_eval-0.2.3.dist-info/LICENSE.txt",
+    "Lib/site-packages/pure_eval-0.2.3.dist-info/METADATA",
+    "Lib/site-packages/pure_eval-0.2.3.dist-info/RECORD",
+    "Lib/site-packages/pure_eval-0.2.3.dist-info/REQUESTED",
+    "Lib/site-packages/pure_eval-0.2.3.dist-info/WHEEL",
+    "Lib/site-packages/pure_eval-0.2.3.dist-info/direct_url.json",
+    "Lib/site-packages/pure_eval-0.2.3.dist-info/top_level.txt",
+    "Lib/site-packages/pure_eval/__init__.py",
+    "Lib/site-packages/pure_eval/core.py",
+    "Lib/site-packages/pure_eval/my_getattr_static.py",
+    "Lib/site-packages/pure_eval/py.typed",
+    "Lib/site-packages/pure_eval/utils.py",
+    "Lib/site-packages/pure_eval/version.py",
+    ".nonadmin",
+    "Lib/site-packages/pure_eval/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pure_eval/__pycache__/core.cpython-312.pyc",
+    "Lib/site-packages/pure_eval/__pycache__/my_getattr_static.cpython-312.pyc",
+    "Lib/site-packages/pure_eval/__pycache__/utils.cpython-312.pyc",
+    "Lib/site-packages/pure_eval/__pycache__/version.cpython-312.pyc"
+  ],
+  "fn": "pure_eval-0.2.3-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\akula\\anaconda3\\pkgs\\pure_eval-0.2.3-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "0f051f09d992e0d08941706ad519ee0e",
+  "name": "pure_eval",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\akula\\anaconda3\\pkgs\\pure_eval-0.2.3-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pure_eval/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pure_eval/__pycache__/core.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pure_eval/__pycache__/my_getattr_static.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pure_eval/__pycache__/utils.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pure_eval/__pycache__/version.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "dcfcb3cee1ae0a89729601582cc3edea20ba13c9493967a03a693c67567af0c8",
+  "size": 16551,
+  "subdir": "noarch",
+  "timestamp": 1721585805000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pure_eval-0.2.3-pyhd8ed1ab_0.conda",
+  "version": "0.2.3"
+}
