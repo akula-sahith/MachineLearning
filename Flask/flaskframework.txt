@@ -1,0 +1,4 @@
+Web framework creating using python 
+It has 2 important things :
+WSGI = Web server gateway interface
+Ginga 2 = To integrate the database 
