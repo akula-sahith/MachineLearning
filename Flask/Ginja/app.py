@@ -22,5 +22,7 @@ def submit2(score):
     data = {"score":score,"result":res}
     return render_template('result2.html',results = data)
 
+
+
 if __name__=="__main__":
     app.run(debug=True)
